@@ -12,7 +12,7 @@
 ### 1. <a href="https://github.com/Jeanparker100/PARKY-BUG-BOT/fork"><img title="WEB" src="https://img.shields.io/badge/FORK PARKY-WEB?color=black&style=for-the-badge&logo=stackshare"></a>
 ### 2. <a href="https://parky-web-1.onrender.com"><img src="https://img.shields.io/badge/PAIR_CODE-green" alt="Clique ici pour avoir le Pair-Code" width="90"></a>
 ### 3. <a href="https://replit.com/@parjjean/Parky-pair-code"><img src="https://img.shields.io/badge/PAIR_CODE-orange" alt="Clique ici si le pairing code 1 ne marche pas" width="90"></a>
-### 4. <a href='https://panel.solarhosting.cc' target="_blank"><img alt='Deployer sur Panel' src='https://img.shields.io/badge/-DEPLOYER SUR PANEL-pink?style=for-the-badge&logo=solar&logoColor=white'/></a>
+### 4. <a href='https://solarhosting.cc/' target="_blank"><img alt='Panel Link' src='https://img.shields.io/badge/-DEPLOYER%20SUR%20PANEL-pink?style=for-the-badge&logo=Cloudflare&logoColor=white'/></a>
 ### 5. <a href='https://replit.com/@parjjean/PARKY-BUG-BOT' target="_blank"><img alt='Deployer sur Replit' src='https://img.shields.io/badge/-DEPLOYER SUR REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 ## 6. <a href='https://dashboard.render.com/template=https://github.com/Jeanparker100/PARKY-WEB' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOYER SUR RENDER-black?style=for-the-badge&logo=render&logoColor=white'/>
 ## Pour regarder des tutoriels.
@@ -141,4 +141,6 @@ npm i -g forever && forever index.js && forever save && forever logs
 <img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
- 
+ ## Remerciements
+
+Un grand merci à [![DGxeon](https://github.com/DGXeon.png?size=100)](https://github.com/DGXeon) pour la création de la base de données utilisée par le bot **PARKY-BUG-BOT**. Votre contribution est essentielle au bon fonctionnement du projet, et nous sommes très reconnaissants pour votre travail acharné et votre expertise.
